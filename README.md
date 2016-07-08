@@ -15,6 +15,8 @@ This project, with some refinement, has all the marketable attributes of a basic
 
 What I learned most from this project is that even though a task like making a functional video game seems intimidating, it’s not built all at once. I started with simply being able to move a single block across a black screen, and then slowly implemented more blocks and complexities into the logic of both the blocks and the borders of the screen until I felt I had created a finished project.
 
+![alt tag](http://i.imgur.com/4dzEClq.jpg)
+
 
 Requirements:
 
