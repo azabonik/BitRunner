@@ -1,0 +1,18 @@
+# system info PLL on 2014.12.07.17:23:39
+system_info:
+name,value
+DEVICE,EP2C20F484C7
+DEVICE_FAMILY,Cyclone II
+GENERATION_ID,1417991015
+#
+#
+# Files generated for PLL on 2014.12.07.17:23:39
+files:
+filepath,kind,attributes,module,is_top
+PLL/simulation/PLL.vhd,VHDL,,PLL,true
+PLL/simulation/submodules/PLL_altpll_0.vho,VHDL,,PLL_altpll_0,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+PLL.altpll_0,PLL_altpll_0
